@@ -213,7 +213,30 @@ The project is intended as a portfolio piece demonstrating the use of programmin
 
 **Nada Satya Maharani**
 
-This project was developed as an independent computational physics project, combining programming, numerical methods, and classical mechanics.
+This project was developed as an independent computational physics study
+investigating the numerical behavior of a simplified Sun–Earth–Moon
+three-body system under Newtonian gravity.
+
+The project begins by defining the physical parameters and initial
+conditions of the system, then formulates the gravitational interactions
+and coupled equations of motion for the three bodies. These equations are
+solved numerically to obtain the time evolution of their positions and
+velocities.
+
+The resulting data are used to analyze orbital trajectories, velocity,
+acceleration, mechanical energy, angular momentum, and the conservation
+of these quantities throughout the simulation. The project also includes
+scientific visualization and animation to provide a visual representation
+of the simulated orbital dynamics.
+
+Through this project, classical mechanics is combined with numerical
+computation to demonstrate how physical laws can be translated into a
+computational model and investigated through simulation and quantitative
+analysis.
+
+The implementation uses Python, NumPy, SciPy, and Matplotlib, while the
+accompanying Jupyter Notebook provides the complete step-by-step derivation,
+implementation, analysis, and discussion of the simulation.
 
 ---
 
