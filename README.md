@@ -2,6 +2,9 @@
 
 ### A Numerical Simulation of the Sun–Earth–Moon System Using Newtonian Gravity
 
+**Author:** Nada Satya Maharani  
+**Year:** 2026
+
 A computational physics project that simulates a simplified **three-body gravitational system** consisting of the Sun, Earth, and Moon.
 
 The project combines classical mechanics, differential equations, numerical integration, and scientific visualization using Python.
@@ -203,6 +206,14 @@ Visualization
 ```
 
 The project is intended as a portfolio piece demonstrating the use of programming and numerical methods to investigate a physical system.
+
+---
+
+## Author
+
+**Nada Satya Maharani**
+
+This project was developed as an independent computational physics project, combining programming, numerical methods, and classical mechanics.
 
 ---
 
