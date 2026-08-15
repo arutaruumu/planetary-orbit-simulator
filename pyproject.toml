@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "planetary-orbit-simulator"
+version = "1.0.0"
+description = "A numerical simulation of the Sun-Earth-Moon system using Newtonian gravity."
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "ipython"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
