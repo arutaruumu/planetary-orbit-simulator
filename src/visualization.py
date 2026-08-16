@@ -173,7 +173,7 @@ def plot_conservation_error(
 def create_orbit_animation(
     positions_history,
     astronomical_unit,
-    frame_step=10
+    frame_step=30
 ):
     """
     Create an animated visualization of the
